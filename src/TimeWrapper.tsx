@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import { useState } from "react";
 import Timer from "./Timer";
 type TimerProps = {
   duration: number;
